@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-size: A;
+}
+.navbar nav a{
+    margin: 0 10px;
+    color: #090909;
+}
+.logo{
+    font-size: 22px;
+    font-weight: bold;
+}
+.ricons{
+    display: flex;
+    align-items: center;
+    gap: ;
+}
